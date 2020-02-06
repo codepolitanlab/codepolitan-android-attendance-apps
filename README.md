@@ -1,6 +1,9 @@
 # Source Code Kelas Online Membuat Aplikasi Presensi Android Berbasis Lokasi
 
-[![](./cover.jpg)](https://www.codepolitan.com/learn/aplikasi-presensi-android-berbasis-lokasi)
+<a href="https://www.codepolitan.com/learn/aplikasi-presensi-android-berbasis-lokasi" target="_blank">
+  ![](./cover.jpg)
+</a>
+
 
 ## Belajar Membuat Aplikasi Presensi Android Berbasis Lokasi
 
