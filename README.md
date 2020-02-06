@@ -8,3 +8,4 @@ Dengan mengikuti kelas online ini, kamu akan bisa membuat sebuah aplikasi Androi
 
 - Location service
 - Firebase Realtime Database
+- Android Ripple Background
